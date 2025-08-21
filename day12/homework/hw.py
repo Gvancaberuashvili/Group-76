@@ -18,10 +18,9 @@ while i > 18:
 password = input("enter your password: ")
 
 if password == "1234":
-    print("your password is correcr: ")
-
+    print("your password is correct: ")
 else:
-    print("ypur password is incorrect")
+    print("your password is incorrect")
 
 # hw5
 animal = input("enter your animal: ")
